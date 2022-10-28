@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom/cjs/react-router-dom.min";
 
-
+//function component
 export default function NavBar(){
     return(
         <React.Fragment>
