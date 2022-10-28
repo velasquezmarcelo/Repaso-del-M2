@@ -74,4 +74,4 @@ export default function  CreateUser(){
 //         createUser: (input) => dispatch (createUser(input));
 //     }
 // }
-// export default connect (null, mapDispatchToProps) (CreateUser)
+// export default connect (mapStateToProps:null, mapDispatchToProps) (CreateUser)
